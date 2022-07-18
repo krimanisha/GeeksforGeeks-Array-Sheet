@@ -1,7 +1,7 @@
 # TOP 50 Array Coding Problems for Interviews
 
 ## Level 1
-01. Peak Element
+01. Peak Element - https://practice.geeksforgeeks.org/problems/peak-element/1
 02. Find the minimum and maximum element in an array
 03. Write a program to reverse the array
 04. Write a program to sort the given array
