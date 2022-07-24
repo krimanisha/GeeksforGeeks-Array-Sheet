@@ -3,7 +3,7 @@
 ## Level 1
 01. Peak Element - https://practice.geeksforgeeks.org/problems/peak-element/1
 02. Find the minimum and maximum element in an array - https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
-03. Write a program to reverse the array
+03. Write a program to reverse the array - https://practice.geeksforgeeks.org/problems/reverse-an-array/0
 04. Write a program to sort the given array
 05. Find the Kth largest and Kth smallest number in an array
 06. Find the occurrence of an integer in the array
