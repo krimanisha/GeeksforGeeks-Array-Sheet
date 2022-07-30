@@ -10,7 +10,7 @@
 07. Sort the array of 0s, 1s, and 2s
 08. Subarray with given Sum
 09. Move all the negative elements to one side of the array
-10. Find the Union and Intersection of the two sorted arrays
+10. Find the Union and Intersection of the two sorted arrays - https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1
 
 ## Level 2
 01. Write a program to cyclically rotate an array - 
