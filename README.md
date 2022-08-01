@@ -5,7 +5,7 @@
 02. Find the minimum and maximum element in an array - https://practice.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
 03. Write a program to reverse the array - https://practice.geeksforgeeks.org/problems/reverse-an-array/0
 04. Write a program to sort the given array - https://practice.geeksforgeeks.org/problems/sort-the-array0055/1
-05. Find the Kth largest and Kth smallest number in an array
+05. Find the Kth largest and Kth smallest number in an array - https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1
 06. Find the occurrence of an integer in the array
 07. Sort the array of 0s, 1s, and 2s
 08. Subarray with given Sum
